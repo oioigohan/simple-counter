@@ -47,3 +47,5 @@ Thumbs.db
 .browserslistrc
 .editorconfig
 src/assets/.gitkeep
+.vscode/
+.angulardoc.json
