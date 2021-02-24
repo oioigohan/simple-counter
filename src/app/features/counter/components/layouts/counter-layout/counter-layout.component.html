@@ -1,0 +1,7 @@
+<div class="w-48 h-48 mt-6 mx-auto flex flex-col justify-evenly bg-white shadow overflow-hidden sm:rounded-lg">
+  <div app-text class="mx-auto text-2xl font-medium">Count: {{count}}</div>
+  <div class="mx-auto flex flex-row content-center justify-center">
+    <div app-yellow-button (clicked)="countUp.emit()" class="w-16 h-10 mr-4">+1</div>
+    <div app-white-button (clicked)="clear.emit()" class="w-16 h-10">Clear</div>
+  </div>
+</div>
