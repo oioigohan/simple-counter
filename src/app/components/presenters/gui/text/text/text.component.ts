@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-text',
+  selector: 'app-text, [app-text]',
   templateUrl: './text.component.html',
   styleUrls: ['./text.component.scss']
 })
