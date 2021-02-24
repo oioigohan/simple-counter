@@ -1,0 +1,2 @@
+# simple-counter.github.io
+自身が提案するコンポーネント設計手法とテスト駆動などを取り入れたい動作確認用Angularアプリケーション
