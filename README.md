@@ -1,9 +1,11 @@
 # simple-counter.github.io
 自身が提案するコンポーネント設計手法とテスト駆動などを取り入れたい動作確認用Angularアプリケーション
 
-## url
+## URL
 
 https://oioigohan.github.io/simple-counter.github.io/counter
+github pagesで公開しています。
++1でCountを1だけ増やし、Clearで0にリセットする機能としてはシンプルなアプリケーションです。
 
 ## 意識して取り入れた技術
 
