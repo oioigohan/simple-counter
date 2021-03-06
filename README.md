@@ -3,7 +3,7 @@
 
 ## URL
 
-https://oioigohan.github.io/simple-counter
+https://oioigohan.github.io/simple-counter/
 
 github pagesで公開しています。
 
