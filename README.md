@@ -1,9 +1,9 @@
-# simple-counter.github.io
+# simple-counter
 自身が提案するコンポーネント設計手法とテスト駆動などを取り入れたい動作確認用Angularアプリケーション
 
 ## URL
 
-https://oioigohan.github.io/simple-counter.github.io/counter
+https://oioigohan.github.io/simple-counter/counter
 
 github pagesで公開しています。
 
