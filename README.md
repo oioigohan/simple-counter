@@ -13,10 +13,11 @@ github pagesで公開しています。
 
 - Angular
 - git-flow
-- コンポーネント設計(提案手法：Pages-Layouts-Presenters構造)
+- コンポーネント設計([提案手法：Pages-Layouts-Presenters構造](https://qiita.com/oioigohan/items/a6b700d67e9fa71ce9f7))
 - チケット駆動開発
 - ドメイン駆動開発
 - テスト駆動開発(今後実装予定)
-- tailwind
+- tailwindcss
 - github pages
 - Material Design
+- NgRx
